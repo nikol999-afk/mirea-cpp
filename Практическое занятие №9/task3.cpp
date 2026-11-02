@@ -37,7 +37,7 @@ string toBinary(string s) {
 }
 
 int main() {
-    ifstream fin("input.txt");
+    ifstream fin("input_task3.txt");
     ofstream fout("output.txt");
 
     string s;

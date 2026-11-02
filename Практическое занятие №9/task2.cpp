@@ -4,8 +4,8 @@
 using namespace std;
 
 int main() {
-    ifstream fin1("input1.txt");
-    ifstream fin2("input2.txt");
+    ifstream fin1("input1_task2.txt");
+    ifstream fin2("input2_task2.txt");
     ofstream fout("output.txt");
 
     string X, Y;

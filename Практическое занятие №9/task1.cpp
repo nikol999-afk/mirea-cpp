@@ -6,7 +6,7 @@
 using namespace std;
 
 int main() {
-    ifstream fin("input.txt");
+    ifstream fin("input_task1.txt");
     ofstream fout("output.txt");
 
     string s;
